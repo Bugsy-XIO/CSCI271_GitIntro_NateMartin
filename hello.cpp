@@ -2,8 +2,8 @@
 //
 
 // CSCI 271 - GitHub Upload Practice
-// Name: Nathaniel Martin
-// Section: 1290
+// Name: Nate Martin
+// Sect: 1290
 
 #include <iostream>
 using namespace std;
